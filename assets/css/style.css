@@ -87,9 +87,12 @@
     color:white;
   }
 
-
-
-
 .flexvideo {
   display: block;
+}
+
+.navspace {
+min-height: 90px;
+background-color: aqua;
+
 }
