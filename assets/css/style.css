@@ -1,13 +1,15 @@
 
  body{
-  background-color: black;
- }
+  background-color: rgb(116, 91, 91);
+  margin: 0px;
+  padding: 0px;
+
+}
 
   .navMenu {
       color: #ffffff;
 
       text-decoration: none !important;
-
       padding: 10px;
        
   }
@@ -85,7 +87,17 @@
     color:white;
   }
 
-.video-heading{
+.videoheading {
   background-color: red;
+  padding: 0rem;
+  margin: 0rem;
+  font-size: 0rem;
+  line-height: 0rem;
 }
 
+.videorow {
+  padding: 0rem;
+  margin: 0rem;
+  font-size: 0rem;
+  line-height:0rem;
+}
